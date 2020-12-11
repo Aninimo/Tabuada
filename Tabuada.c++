@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-ing main(){
+int main(){
     int n;
     cout<<"Informe um número:";
     cin >>n;
